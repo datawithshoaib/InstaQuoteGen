@@ -1,0 +1,37 @@
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+.venv/
+venv/
+env/
+.uv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Generated runtime files
+generated_posts/
+quote_index.txt
+
+# Temporary media and exports
+*.mp3
+*.mp4
+*.wav
+*.m4a
+*.gif
+*.tmp
+
+# Local tooling
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db

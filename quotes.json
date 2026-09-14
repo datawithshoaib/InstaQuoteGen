@@ -1,0 +1,964 @@
+{
+  "quotes": [
+    {
+      "text": "Believe you can, and you're halfway there.",
+      "keywords": [
+        "belief",
+        "confidence",
+        "determination"
+      ]
+    },
+    {
+      "text": "The only limits are those you set yourself.",
+      "keywords": [
+        "limitation",
+        "potential",
+        "growth"
+      ]
+    },
+    {
+      "text": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+      "keywords": [
+        "persistence",
+        "resilience",
+        "success"
+      ]
+    },
+    {
+      "text": "The future belongs to those who believe in the beauty of their dreams.",
+      "keywords": [
+        "dreams",
+        "hope",
+        "optimism"
+      ]
+    },
+    {
+      "text": "The greatest glory is not in never failing, but in rising every time we fall.",
+      "keywords": [
+        "failure",
+        "resilience",
+        "growth"
+      ]
+    },
+    {
+      "text": "Life is a journey, not a destination.",
+      "keywords": [
+        "journey",
+        "growth",
+        "experience"
+      ]
+    },
+    {
+      "text": "The best way to predict the future is to create it.",
+      "keywords": [
+        "action",
+        "responsibility",
+        "control"
+      ]
+    },
+    {
+      "text": "The only person you are destined to become is the person you decide to be.",
+      "keywords": [
+        "choice",
+        "potential",
+        "growth"
+      ]
+    },
+    {
+      "text": "The greatest wealth is to live content with little.",
+      "keywords": [
+        "contentment",
+        "simplicity",
+        "wealth"
+      ]
+    },
+    {
+      "text": "Happiness is not something readymade. It comes from your own actions.",
+      "keywords": [
+        "happiness",
+        "action",
+        "responsibility"
+      ]
+    },
+    {
+      "text": "To live is the rarest thing in the world. Most people exist, that is all.",
+      "keywords": [
+        "life",
+        "purpose",
+        "authenticity"
+      ]
+    },
+    {
+      "text": "The happiness of your life depends upon the quality of your thoughts.",
+      "keywords": [
+        "thought",
+        "happiness",
+        "mindset"
+      ]
+    },
+    {
+      "text": "The greatest test of courage on earth is to forgive someone who has wronged you.",
+      "keywords": [
+        "forgiveness",
+        "courage",
+        "grace"
+      ]
+    },
+    {
+      "text": "The only true wisdom is in knowing you know nothing.",
+      "keywords": [
+        "humility",
+        "wisdom",
+        "learning"
+      ]
+    },
+    {
+      "text": "The power of imagination makes us infinite.",
+      "keywords": [
+        "imagination",
+        "creativity",
+        "potential"
+      ]
+    },
+    {
+      "text": "The best revenge is to be unlike him who wronged you.",
+      "keywords": [
+        "revenge",
+        "forgiveness",
+        "growth"
+      ]
+    },
+    {
+      "text": "Life is a series of experiences, each one has something to teach us.",
+      "keywords": [
+        "experience",
+        "growth",
+        "learning"
+      ]
+    },
+    {
+      "text": "The only real failure in life is not trying.",
+      "keywords": [
+        "failure",
+        "action",
+        "effort"
+      ]
+    },
+    {
+      "text": "The best preparation for tomorrow is doing your best today.",
+      "keywords": [
+        "preparation",
+        "action",
+        "today"
+      ]
+    },
+    {
+      "text": "Imagination is more important than knowledge.",
+      "keywords": [
+        "imagination",
+        "creativity",
+        "innovation"
+      ]
+    },
+    {
+      "text": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+      "keywords": [
+        "resilience",
+        "failure",
+        "growth"
+      ]
+    },
+    {
+      "text": "The future belongs to those who believe in the beauty of their dreams.",
+      "keywords": [
+        "\u68a6\u60f3",
+        "\u5e0c\u671b",
+        "\u4e50\u89c2"
+      ]
+    },
+    {
+      "text": "The greatest wealth is to live content with little.",
+      "keywords": [
+        "contentment",
+        "simplicity",
+        "wealth"
+      ]
+    },
+    {
+      "text": "Happiness is not something readymade. It comes from your own actions.",
+      "keywords": [
+        "happiness",
+        "action",
+        "responsibility"
+      ]
+    },
+    {
+      "text": "To live is the rarest thing in the world. Most people exist, that is all.",
+      "keywords": [
+        "life",
+        "purpose",
+        "authenticity"
+      ]
+    },
+    {
+      "text": "The happiness of your life depends upon the quality of your thoughts.",
+      "keywords": [
+        "thought",
+        "happiness",
+        "mindset"
+      ]
+    },
+    {
+      "text": "The power of imagination makes us infinite.",
+      "keywords": [
+        "imagination",
+        "creativity",
+        "potential"
+      ]
+    },
+    {
+      "text": "The best revenge is to be unlike him who wronged you.",
+      "keywords": [
+        "revenge",
+        "forgiveness",
+        "growth"
+      ]
+    },
+    {
+      "text": "Your time is limited, so don't waste it living someone else's life.",
+      "keywords": [
+        "time",
+        "purpose",
+        "authenticity"
+      ]
+    },
+    {
+      "text": "If you love life, don't waste time, for time is what life is made of.",
+      "keywords": [
+        "time",
+        "appreciation",
+        "life"
+      ]
+    },
+    {
+      "text": "Life is either a daring adventure or nothing at all.",
+      "keywords": [
+        "adventure",
+        "risk",
+        "living"
+      ]
+    },
+    {
+      "text": "Bloom with grace, even through life's storms.",
+      "keywords": [
+        "resilience",
+        "growth",
+        "grace"
+      ]
+    },
+    {
+      "text": "The greatest journeys begin with a single step.",
+      "keywords": [
+        "journey",
+        "beginnings",
+        "progress"
+      ]
+    },
+    {
+      "text": "Embrace the chaos, for it breeds creativity.",
+      "keywords": [
+        "creativity",
+        "chaos",
+        "innovation"
+      ]
+    },
+    {
+      "text": "In silence, find the whispers of your true self.",
+      "keywords": [
+        "introspection",
+        "self-discovery",
+        "silence"
+      ]
+    },
+    {
+      "text": "Cherish the moments, for they shape the tapestry of life.",
+      "keywords": [
+        "time",
+        "memories",
+        "appreciation"
+      ]
+    },
+    {
+      "text": "Be like a river, ever flowing and adapting.",
+      "keywords": [
+        "adaptation",
+        "flexibility",
+        "flow"
+      ]
+    },
+    {
+      "text": "Seek not perfection, but strive for progress.",
+      "keywords": [
+        "growth",
+        "progress",
+        "improvement"
+      ]
+    },
+    {
+      "text": "With every breath, embrace the beauty of existence.",
+      "keywords": [
+        "gratitude",
+        "appreciation",
+        "presence"
+      ]
+    },
+    {
+      "text": "Unleash your inner fire, let your spirit soar.",
+      "keywords": [
+        "motivation",
+        "passion",
+        "ambition"
+      ]
+    },
+    {
+      "text": "Be the author of your own unique destiny.",
+      "keywords": [
+        "self-determination",
+        "choice",
+        "destiny"
+      ]
+    },
+    {
+      "text": "In darkness, find the spark that ignites your soul.",
+      "keywords": [
+        "optimism",
+        "hope",
+        "resilience"
+      ]
+    },
+    {
+      "text": "Dream big, for in your dreams lies your future.",
+      "keywords": [
+        "dreaming",
+        "ambition",
+        "vision"
+      ]
+    },
+    {
+      "text": "Embrace failure, for it is the seed of growth.",
+      "keywords": [
+        "failure",
+        "learning",
+        "growth"
+      ]
+    },
+    {
+      "text": "Within your vulnerability lies your greatest strength.",
+      "keywords": [
+        "vulnerability",
+        "strength",
+        "authenticity"
+      ]
+    },
+    {
+      "text": "Plant the seeds of kindness, and watch the world bloom.",
+      "keywords": [
+        "kindness",
+        "compassion",
+        "positivity"
+      ]
+    },
+    {
+      "text": "Live in the present, for the future is uncertain.",
+      "keywords": [
+        "present moment",
+        "mindfulness",
+        "gratitude"
+      ]
+    },
+    {
+      "text": "Unleash the warrior within and conquer your fears.",
+      "keywords": [
+        "courage",
+        "determination",
+        "strength"
+      ]
+    },
+    {
+      "text": "Be the change you wish to see in the world.",
+      "keywords": [
+        "change",
+        "activism",
+        "impact"
+      ]
+    },
+    {
+      "text": "In unity, find the strength to overcome adversity.",
+      "keywords": [
+        "unity",
+        "support",
+        "community"
+      ]
+    },
+    {
+      "text": "Dare to be different, for conformity is the enemy of originality.",
+      "keywords": [
+        "originality",
+        "individuality",
+        "nonconformity"
+      ]
+    },
+    {
+      "text": "Listen to your intuition, it knows the path to your purpose.",
+      "keywords": [
+        "intuition",
+        "purpose",
+        "self-discovery"
+      ]
+    },
+    {
+      "text": "Embrace the unknown, for it is where the magic happens.",
+      "keywords": [
+        "adventure",
+        "exploration",
+        "curiosity"
+      ]
+    },
+    {
+      "text": "Be kind to yourself, for you are your own greatest companion.",
+      "keywords": [
+        "self-love",
+        "compassion",
+        "self-care"
+      ]
+    },
+    {
+      "text": "Plant seeds of positivity, and watch your garden of happiness grow.",
+      "keywords": [
+        "positivity",
+        "optimism",
+        "well-being"
+      ]
+    },
+    {
+      "text": "In the symphony of life, let your heart be the conductor.",
+      "keywords": [
+        "emotion",
+        "heart",
+        "meaning"
+      ]
+    },
+    {
+      "text": "Embrace the present, for it is the only time you truly have.",
+      "keywords": [
+        "present moment",
+        "mindfulness",
+        "appreciation"
+      ]
+    },
+    {
+      "text": "Be the architect of your own destiny, and build a life you love.",
+      "keywords": [
+        "self-determination",
+        "choice",
+        "destiny"
+      ]
+    },
+    {
+      "text": "Dance with the stars, for they hold the secrets to your wildest dreams.",
+      "keywords": [
+        "imagination",
+        "creativity",
+        "inspiration"
+      ]
+    },
+    {
+      "text": "In the tapestry of life, every thread has a purpose.",
+      "keywords": [
+        "meaning",
+        "purpose",
+        "connection"
+      ]
+    },
+    {
+      "text": "Ignite the spark within, and let your passion guide your way.",
+      "keywords": [
+        "passion",
+        "purpose",
+        "motivation"
+      ]
+    },
+    {
+      "text": "Ignite the spark within, and your dreams will soar.",
+      "keywords": [
+        "passion",
+        "motivation",
+        "dreams"
+      ]
+    },
+    {
+      "text": "The journey of a thousand steps begins with a single breath.",
+      "keywords": [
+        "perseverance",
+        "progress",
+        "mindfulness"
+      ]
+    },
+    {
+      "text": "Embrace the chaos, for it is the crucible of transformation.",
+      "keywords": [
+        "growth",
+        "resilience",
+        "change"
+      ]
+    },
+    {
+      "text": "In the silence of solitude, the symphony of your soul can be heard.",
+      "keywords": [
+        "introspection",
+        "self-discovery",
+        "inner peace"
+      ]
+    },
+    {
+      "text": "The greatest glory lies not in never falling, but in rising every time we fail.",
+      "keywords": [
+        "resilience",
+        "failure",
+        "growth"
+      ]
+    },
+    {
+      "text": "With every sunrise, a new canvas awaits your masterpiece.",
+      "keywords": [
+        "creativity",
+        "opportunity",
+        "new beginnings"
+      ]
+    },
+    {
+      "text": "The past is a lesson, the present is a gift, the future is a blank page.",
+      "keywords": [
+        "time",
+        "growth",
+        "possibility"
+      ]
+    },
+    {
+      "text": "Walk in harmony with your dreams, and the universe will conspire in their favor.",
+      "keywords": [
+        "manifestation",
+        "dreams",
+        "universe"
+      ]
+    },
+    {
+      "text": "In the alchemy of life, pain becomes the catalyst for growth.",
+      "keywords": [
+        "growth",
+        "resilience",
+        "transformation"
+      ]
+    },
+    {
+      "text": "The wise plant seeds in their thoughts, for they know the harvest will come.",
+      "keywords": [
+        "manifestation",
+        "mindset",
+        "intentions"
+      ]
+    },
+    {
+      "text": "The path to self-mastery begins with the mastery of your own mind.",
+      "keywords": [
+        "mindfulness",
+        "control",
+        "self-improvement"
+      ]
+    },
+    {
+      "text": "Love is not a transaction, but a boundless ocean of pure connection.",
+      "keywords": [
+        "love",
+        "connection",
+        "empathy"
+      ]
+    },
+    {
+      "text": "The beauty of life lies in its imperfections, for they shape our stories.",
+      "keywords": [
+        "acceptance",
+        "resilience",
+        "growth"
+      ]
+    },
+    {
+      "text": "When you dance with life, let go of expectations and embrace the rhythm.",
+      "keywords": [
+        "flow",
+        "presence",
+        "joy"
+      ]
+    },
+    {
+      "text": "Your words have the power to heal, inspire, or wound. Choose wisely.",
+      "keywords": [
+        "communication",
+        "impact",
+        "responsibility"
+      ]
+    },
+    {
+      "text": "The universe is a mirror, reflecting back what we project upon it.",
+      "keywords": [
+        "manifestation",
+        "law of attraction",
+        "awareness"
+      ]
+    },
+    {
+      "text": "In the garden of your mind, plant seeds of positivity and reap a bountiful harvest.",
+      "keywords": [
+        "mindset",
+        "growth",
+        "positivity"
+      ]
+    },
+    {
+      "text": "Embrace the power of vulnerability, for it is the birthplace of courage.",
+      "keywords": [
+        "vulnerability",
+        "courage",
+        "authenticity"
+      ]
+    },
+    {
+      "text": "The journey of life is not a race, but a pilgrimage filled with wonder and discovery.",
+      "keywords": [
+        "journey",
+        "self-discovery",
+        "wonder"
+      ]
+    },
+    {
+      "text": "Let your spirit soar like an eagle, reaching new heights with every flight.",
+      "keywords": [
+        "freedom",
+        "ambition",
+        "potential"
+      ]
+    },
+    {
+      "text": "In the symphony of life, play your instrument with passion and purpose.",
+      "keywords": [
+        "purpose",
+        "passion",
+        "expression"
+      ]
+    },
+    {
+      "text": "The stars may guide your path, but it is your inner light that illuminates the way.",
+      "keywords": [
+        "intuition",
+        "guidance",
+        "inner wisdom"
+      ]
+    },
+    {
+      "text": "Life is a dance, step into the rhythm and find your groove.",
+      "keywords": [
+        "flow",
+        "joy",
+        "expression"
+      ]
+    },
+    {
+      "text": "With every sunrise, a new adventure awaits. Embrace the unknown with a fearless heart.",
+      "keywords": [
+        "adventure",
+        "unknown",
+        "courage"
+      ]
+    },
+    {
+      "text": "In the tapestry of life, weave threads of kindness, compassion, and love.",
+      "keywords": [
+        "kindness",
+        "compassion",
+        "love"
+      ]
+    },
+    {
+      "text": "Your mind is a magnet, draw in thoughts that align with your dreams.",
+      "keywords": [
+        "manifestation",
+        "mindset",
+        "intentions"
+      ]
+    },
+    {
+      "text": "The greatest legacy is the impact you have on the hearts of others.",
+      "keywords": [
+        "legacy",
+        "impact",
+        "connection"
+      ]
+    },
+    {
+      "text": "Life's obstacles are stepping stones to greatness, climb them with unwavering determination.",
+      "keywords": [
+        "obstacles",
+        "determination",
+        "growth"
+      ]
+    },
+    {
+      "text": "In the realm of possibility, anything is possible. Believe in the magic within you.",
+      "keywords": [
+        "possibility",
+        "belief",
+        "potential"
+      ]
+    },
+    {
+      "text": "Ignite your spark, chase your dreams with fire.",
+      "keywords": [
+        "passion",
+        "determination",
+        "ambition"
+      ]
+    },
+    {
+      "text": "Embrace the unknown, for it holds the seeds of discovery.",
+      "keywords": [
+        "exploration",
+        "adventure",
+        "growth"
+      ]
+    },
+    {
+      "text": "With every sunrise, rise above your limits.",
+      "keywords": [
+        "progress",
+        "improvement",
+        "potential"
+      ]
+    },
+    {
+      "text": "The only boundaries are those you create within your mind.",
+      "keywords": [
+        "belief",
+        "limitations",
+        "possibility"
+      ]
+    },
+    {
+      "text": "Nourish your roots, and watch your dreams blossom.",
+      "keywords": [
+        "growth",
+        "foundation",
+        "potential"
+      ]
+    },
+    {
+      "text": "In silence, find the symphony of your soul.",
+      "keywords": [
+        "introspection",
+        "self-discovery",
+        "peace"
+      ]
+    },
+    {
+      "text": "Climb mountains, not just because they're there, but because they lift you higher.",
+      "keywords": [
+        "challenge",
+        "overcoming",
+        "growth"
+      ]
+    },
+    {
+      "text": "The greatest battles are those fought within ourselves.",
+      "keywords": [
+        "inner strength",
+        "resilience",
+        "self-conquest"
+      ]
+    },
+    {
+      "text": "Dance with the wind, flow with the rivers, and let your spirit soar.",
+      "keywords": [
+        "freedom",
+        "connection",
+        "nature"
+      ]
+    },
+    {
+      "text": "Be the architect of your own destiny, one brick at a time.",
+      "keywords": [
+        "determination",
+        "purpose",
+        "progress"
+      ]
+    },
+    {
+      "text": "In the crucible of adversity, true character is forged.",
+      "keywords": [
+        "resilience",
+        "challenge",
+        "growth"
+      ]
+    },
+    {
+      "text": "Plant seeds of kindness, and watch compassion bloom around you.",
+      "keywords": [
+        "empathy",
+        "giving",
+        "connection"
+      ]
+    },
+    {
+      "text": "Break free from the chains of fear, and embrace the wings of courage.",
+      "keywords": [
+        "bravery",
+        "overcoming",
+        "freedom"
+      ]
+    },
+    {
+      "text": "The colors of your life are painted by the choices you make.",
+      "keywords": [
+        "responsibility",
+        "choices",
+        "self-determination"
+      ]
+    },
+    {
+      "text": "In the tapestry of life, every thread weaves a unique design.",
+      "keywords": [
+        "individuality",
+        "destiny",
+        "purpose"
+      ]
+    },
+    {
+      "text": "Ignite the spark within, and watch your world transform.",
+      "keywords": [
+        "passion",
+        "transformation",
+        "growth"
+      ]
+    },
+    {
+      "text": "The journey of a thousand miles begins with a single step.",
+      "keywords": [
+        "progress",
+        "perseverance",
+        "determination"
+      ]
+    },
+    {
+      "text": "Dance with the unknown, embrace the adventure that is life.",
+      "keywords": [
+        "exploration",
+        "curiosity",
+        "adventure"
+      ]
+    },
+    {
+      "text": "The mountains you climb shape the strength within you.",
+      "keywords": [
+        "challenge",
+        "growth",
+        "resilience"
+      ]
+    },
+    {
+      "text": "In the symphony of life, find your melody and soar.",
+      "keywords": [
+        "individuality",
+        "purpose",
+        "fulfillment"
+      ]
+    },
+    {
+      "text": "Sow seeds of love, kindness, and watch the world bloom.",
+      "keywords": [
+        "empathy",
+        "giving",
+        "compassion"
+      ]
+    },
+    {
+      "text": "In the tapestry of life, weave threads of purpose and meaning.",
+      "keywords": [
+        "destiny",
+        "purpose",
+        "fulfillment"
+      ]
+    },
+    {
+      "text": "Embrace the tempest, for it reveals your inner strength.",
+      "keywords": [
+        "resilience",
+        "challenge",
+        "overcoming"
+      ]
+    },
+    {
+      "text": "Plant seeds of wisdom, nurture them with knowledge.",
+      "keywords": [
+        "growth",
+        "learning",
+        "enlightenment"
+      ]
+    },
+    {
+      "text": "In the depths of adversity, discover the hidden treasure of resilience.",
+      "keywords": [
+        "resilience",
+        "transformation",
+        "growth"
+      ]
+    },
+    {
+      "text": "Climb the mountain of challenges, reach the summit of success.",
+      "keywords": [
+        "determination",
+        "achievement",
+        "overcoming"
+      ]
+    },
+    {
+      "text": "Unfold the wings of your dreams, soar above the clouds of doubt.",
+      "keywords": [
+        "ambition",
+        "belief",
+        "potential"
+      ]
+    },
+    {
+      "text": "Navigate the stormy seas of life with courage as your compass.",
+      "keywords": [
+        "resilience",
+        "bravery",
+        "determination"
+      ]
+    },
+    {
+      "text": "In the canvas of life, paint your masterpiece with passion and purpose.",
+      "keywords": [
+        "creativity",
+        "individuality",
+        "fulfillment"
+      ]
+    },
+    {
+      "text": "Embrace the rhythm of change, dance with the winds of destiny.",
+      "keywords": [
+        "growth",
+        "adaptability",
+        "transformation"
+      ]
+    }
+  ]
+}
