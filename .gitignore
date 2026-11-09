@@ -1,4 +1,4 @@
-# Environment and secrets
+# Secrets
 .env
 .env.*
 !.env.example
@@ -6,32 +6,28 @@
 # Python
 __pycache__/
 *.py[cod]
-*$py.class
-*.pyo
 .venv/
-venv/
-env/
-.uv/
 .pytest_cache/
-.mypy_cache/
 .ruff_cache/
+.mypy_cache/
 
-# Generated runtime files
+# Backend runtime data (SQLite DB, rendered posts, cached backgrounds)
+backend/data/
+# Eval reports from the fake model are noise; real-model reports are worth committing
+backend/evals/reports/*fake-llm*.md
+
+# Legacy output folder from v2
 generated_posts/
-quote_index.txt
 
-# Temporary media and exports
-*.mp3
-*.mp4
-*.wav
-*.m4a
-*.gif
-*.tmp
+# Frontend
+node_modules/
+.next/
+out/
+*.tsbuildinfo
+next-env.d.ts
 
-# Local tooling
+# Editors / OS
 .vscode/
 .idea/
-
-# OS files
 .DS_Store
 Thumbs.db

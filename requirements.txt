@@ -1,8 +1,0 @@
-Pillow==9.3.0
-requests==2.31.0
-langchain
-langgraph
-langchain-groq
-python-dotenv
-openpyxl
-pandas
